@@ -13,7 +13,7 @@ You can use app now » [Azkar](https://mohammed-zaky.github.io/azkar/)
 **Version 2.0 stable**
 
 ### what's new
-- Dark Theme Mode 🤩
+- Dark Theme Mode 🤩 `switch from browser sittings`
 - New Azkars 📿
 - Solve problems and bugs 🐞
 - Solve Responsive problems 🐻
