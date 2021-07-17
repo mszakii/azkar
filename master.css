@@ -16,12 +16,12 @@ body {
   font-family: 'Tajawal', sans-serif;
 }
 
-.container {
-  width: 80vw;
+/*.container {
+  width: 90vw;
   position: absolute;
   right: 50%;
   transform: translate(50%);
-}
+}*/
 
 .parent {
   display: flex;
@@ -62,26 +62,27 @@ header span img {
   border-radius: 10px;
   transition: var(--transition);
   position: relative;
-  margin: 10px;
+  margin: 10px auto;
   z-index: 30;
   transition: 0.5s;
+  width: 85vw;
 }
 
 .slider button {
   border: 0;
-  background-color: rgb(15,157,88);
+  background-color: white;
   padding: 5px;
   font-weight: bold;
   border-radius: 50px;
-  width: 25px;
-  height: 25px;
+  width: 35px;
+  height: 35px;
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
-  bottom: 10%;
-  right: 10%;
-  color: white;
+  bottom: 8%;
+  right: 8%;
+  color: var(--main);
   border: 2px solid var(--main,rgb(66,133,244));
 }
 
@@ -118,4 +119,19 @@ header span img {
   font-size: 8vw;
   font-weight: bold;
   text-align: center;
+}
+
+@media (min-width: 768px) {
+  .slider {
+    max-width: 300px;
+    margin: 10px;
+  }
+  .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 650px;
+    width: 100%;
+  }
 }
