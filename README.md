@@ -6,4 +6,15 @@ This application are made by Mohammed Zaky as a gift for you.
 
 I updated the app for you 😁 so the app is more better for you.
 
-You can use app » [Azkar](https://mohammed-zaky.github.io/azkar/)
+You can use app now » [Azkar](https://mohammed-zaky.github.io/azkar/)
+
+## updates
+
+**Version 2.0 stable**
+
+### what's new
+- Dark Theme Mode 🤩
+- New Azkars 📿
+- Solve problems and bugs 🐞
+- Solve Responsive problems 🐻
+- Add new look 😉
