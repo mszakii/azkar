@@ -8,6 +8,8 @@ I updated the app for you 😁 so the app is more better for you.
 
 You can use app now » [Azkar](https://mohammed-zaky.github.io/azkar/)
 
+Or download our Android application » [Download Now ⬇️](https://drive.google.com/file/d/1CwhyGSjSmpL2yMHfjt0OKArHo3d5FSdk/view?usp=drivesdk)
+
 ## updates
 
 **Version 2.0 stable**
