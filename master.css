@@ -121,6 +121,29 @@ header span img {
   text-align: center;
 }
 
+.azkar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) scale(1);
+  width: 80vw;
+  transition: 0.5s;
+  animation: show 4s linear 1;
+}
+
+.azkar img {
+  width: 100%;
+}
+
+@keyframes show {
+  from {
+    transform: translate(-50%,-50%) scale(0);
+  }
+  to{
+    transform: translate(-50%,-50%) scale(1) rotate(360deg);
+  }
+}
+
 @media (min-width: 768px) {
   .slider {
     max-width: 300px;
