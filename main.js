@@ -24,36 +24,36 @@ setTimeout(function() {
 body.innerHTML = `
   <header>
     أذكار المسلم
-  <span><img src="azkar.svg" /></span>
+    <span><img src="azkar.svg" /></span>
   </header>
 <div class="container">
   <div class="parent">
-  <div class="slider" id="slider1">
+  <div class="slider" id="slider1" onclick="go()">
     <div class="text">سبحان الله</div>
     <button onclick="go()" id="btn1">${counter1}</button>
   </div>
   
-  <div class="slider" id="slider2">
+  <div class="slider" id="slider2" onclick="goo()">
     <div class="text">الحمد لله</div>
     <button onclick="goo()" id="btn2">${counter2}</button>
   </div>
   
-  <div class="slider" id="slider3">
+  <div class="slider" id="slider3" onclick="gooo()">
     <div class="text">الله أكبر</div>
     <button onclick="gooo()" id="btn3">${counter3}</button>
   </div>
   
-  <div class="slider" id="slider4">
+  <div class="slider" id="slider4" onclick="goooo()">
     <div class="text">لا إله إلا الله</div>
     <button onclick="goooo()" id="btn4">${counter4}</button>
   </div>
   
-  <div class="slider" id="slider5">
+  <div class="slider" id="slider5" onclick="gooooo()">
     <div class="text">اللهم صل على محمد</div>
     <button onclick="gooooo()" id="btn5">${counter5}</button>
   </div>
   
-  <div class="slider" id="slider6">
+  <div class="slider" id="slider6" onclick="goooooo()">
     <div class="text">أستغفر الله</div>
     <button onclick="goooooo()" id="btn6">${counter6}</button>
   </div>
