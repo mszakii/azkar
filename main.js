@@ -14,11 +14,13 @@ var counter0 = `
 </div>`;
 
 let body = document.querySelector(".inner");
+
 body.innerHTML = `
 <div class="azkar">
   <img src="https://mohammed-zaky.github.io/azkar/azkar.svg" />
 </div>
 `;
+setTimeout(function() {
 body.innerHTML = `
   <header>
     أذكار المسلم
@@ -58,7 +60,7 @@ body.innerHTML = `
   </div>
 </div>
 `;
-
+}, 4500);
 function go() {
   if (counter1 > 0) {
     counter1 -= 1;
