@@ -15,6 +15,15 @@ var counter0 = `
 
 let body = document.querySelector(".inner");
 body.innerHTML = `
+<div class="azkar">
+  <img src="https://mohammed-zaky.github.io/azkar/azkar.svg" />
+</div>
+`;
+body.innerHTML = `
+  <header>
+    أذكار المسلم
+  <span><img src="azkar.svg" /></span>
+  </header>
 <div class="container">
   <div class="parent">
   <div class="slider" id="slider1">
