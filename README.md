@@ -20,4 +20,4 @@ Or download our Android application » [Download Now ⬇️](https://drive.googl
 - Solve problems and bugs 🐞
 - Solve Responsive problems 🐻
 - Add new look 😉
-- Now their is android app 🤯
+- Now there is android app 🤯
